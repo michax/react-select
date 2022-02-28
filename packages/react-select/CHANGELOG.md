@@ -1,5 +1,11 @@
 # react-select
 
+## 5.2.3
+
+### Patch Changes
+
+- [`7184d538`](https://github.com/JedWatson/react-select/commit/7184d538f587c1dd5a4ca5ad6cc0745fbb8d3809) [#5082](https://github.com/JedWatson/react-select/pull/5082) Thanks [@Methuselah96](https://github.com/Methuselah96)! - Fix type inference for Async's loadOptions prop
+
 ## 5.2.2
 
 ### Patch Changes
